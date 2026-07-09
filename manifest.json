@@ -2,7 +2,7 @@
   "service_name": "新設法人デイリー",
   "last_updated": "2026-07-09T21:41:38+09:00",
   "latest_date": "2026-07-08",
-  "update_time_label": "毎朝9時",
+  "update_time_label": "毎朝8時",
   "total_records": 1521242,
   "latest_added_count": 742,
   "latest_csv_url": "/data/latest/nta_new_2026-07-08.csv",
