@@ -1,0 +1,26 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Large CSV archives (monthly/daily subdirs not used)
+data/monthly/
+data/daily/
+*.sqlite
+*.db
+
+# Secrets
+.env
+.env.*
+credentials.json
+service-account.json
