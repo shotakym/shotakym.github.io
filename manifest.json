@@ -1,16 +1,21 @@
 {
   "service_name": "新設法人デイリー",
-  "last_updated": "2026-08-07T08:00:05+09:00",
-  "latest_date": "2026-08-06",
+  "last_updated": "2026-08-08T08:00:04+09:00",
+  "latest_date": "2026-08-07",
   "update_time_label": "毎朝8時",
-  "total_records": 1541582,
-  "latest_added_count": 706,
-  "latest_csv_url": "/data/latest/nta_new_2026-08-06.csv",
+  "total_records": 1542846,
+  "latest_added_count": 752,
+  "latest_csv_url": "/data/latest/nta_new_2026-08-07.csv",
   "archive_base_url": "/data/archive/",
   "archive_available_from": "2015-10",
   "source": "国税庁 法人番号公表サイト",
   "source_url": "https://www.houjin-bangou.nta.go.jp/",
   "recent_updates": [
+    {
+      "date": "2026-08-07",
+      "added": 752,
+      "total": 1542846
+    },
     {
       "date": "2026-08-06",
       "added": 706,
@@ -30,11 +35,6 @@
       "date": "2026-08-03",
       "added": 540,
       "total": 1538161
-    },
-    {
-      "date": "2026-07-31",
-      "added": 376,
-      "total": 1537152
     }
   ]
 }
